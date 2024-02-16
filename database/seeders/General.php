@@ -82,12 +82,12 @@ class General extends Seeder
                 ],
                 [
                     'name'  => 'footer_text_left',
-                    'val'   => 'Copyright © 2019 by Booking Core',
+                    'val'   => 'Copyright © 2024 by Al MQAAAM',
                     'group' => "general",
                 ],
                 [
                     'name'  => 'footer_text_right',
-                    'val'   => 'Booking Core',
+                    'val'   => 'Al MQAAAM - All Rights Reserved',
                     'group' => "general",
                 ],
                 [
